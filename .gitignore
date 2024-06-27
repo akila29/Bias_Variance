@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 bias.ipynb
 bias_iris copy.ipynb
+bias_regression.ipynb
